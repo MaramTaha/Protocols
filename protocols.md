@@ -57,7 +57,7 @@
 ---------
 TTL vs RS-232 vs RS-485
 ![TTL vs RS-232 vs RS-485](<Screenshot 2025-03-22 115327-1.png>)
-# Refrences 
+# references 
 ## RS-232
 - [RS-232 Wikipedia](https://en.wikipedia.org/wiki/RS-232)
 - [RS-232 Technical Info](https://www.arcelect.com/rs232.htm)
